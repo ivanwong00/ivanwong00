@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ivan</h1>
-<h3 align="center">Software Engineer at Aspen Spectra</h3><br>
+<h3 align="center">Software Engineer at Aspen Spectra Sdn. Bhd.</h3><br>
 
 ## About Me
 
@@ -41,7 +41,7 @@
 <a href="https://www.linkedin.com/in/yitmengwong/">
   <img src="https://github.com/yitmeng00/yitmeng00/blob/c6fa27ad94d0ead851a5bb4745a8ccd0f8d47a4b/images/linkedin.png" alt="LinkedIn" height="40" width="40">
 </a>&nbsp;
-<a href="mailto:ivanwong810520@gmail.com">
+<a href="mailto:ivan.wong@aspen-spectra.com">
   <img src="https://github.com/yitmeng00/yitmeng00/blob/c6fa27ad94d0ead851a5bb4745a8ccd0f8d47a4b/images/gmail.png" alt="Gmail" height="40" width="40">
 </a>&nbsp;
 <a href="https://www.facebook.com/yitmeng0207/">
@@ -53,4 +53,4 @@
 </p>
 
 ---
-Credits: [Ivan Wong](https://github.com/yitmeng00)
+Credits: [Ivan Wong](https://github.com/ivanwong00)
