@@ -19,15 +19,21 @@
 
 - <b>Front-end:</b> HTML5, CSS3, JavaScript, Bootstrap
 
-- <b>Back-end:</b> C#, PHP, MongoDB, MySQL, ASP. NET Web API, REST API, Swagger, Postman
+- <b>Back-end:</b> C#, PHP, MongoDB, MySQL, ASP. NET, REST API, Postman
 
-- <b>Collaboration:</b> Agile Environment, Git, GitHub, UML Tools
+- <b>Collaboration:</b> Agile Environment, Git, GitHub
 
-- <b>Design:</b> Figma, Adobe Photoshop CC, Adobe Illustrator CC, Adobe Lightroom CC, Adobe Premiere Pro CC
+- <b>Design:</b> Figma, Adobe Photoshop CC, Adobe Illustrator CC
 
 - <b>CMS:</b> WordPress
 
 - <b>IDE:</b> Visual Studio, Sublime Text, Android Studio
+
+## Inspirations
+
+> "Wear your failures as a badge of honor." ― Sundar Pichai, CEO Of Google
+ 
+> "Everything you can imagine is real." ― Pablo Picasso
 
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
