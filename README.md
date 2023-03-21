@@ -3,37 +3,12 @@
 
 ## About Me
 
-- Graduated from UCSI University with major in Bachelor of Computer Science :school:
+Passionate about building user-friendly, reliable and scalable software systems :globe_with_meridians: Experienced in Agile Environment. Constantly learning and expanding my skillsets to build high quality products.
 
-- Currently focusing in IoT industries, learning and researching about Smart IoT Technologies :satellite:
-
-- Passionate about developing Application, Software and System :globe_with_meridians:
-
-- Photography Enthusiast :camera:
-  
-- Exploring the World :earth_asia:
-
-- Sports 🏸 🧗‍♂️ :swimmer:
-
+<br>
 <h2>Tech Stack</h2>
 
-- <b>Front-end:</b> HTML5, CSS3, JavaScript, Bootstrap
-
-- <b>Back-end:</b> C#, PHP, MongoDB, MySQL, ASP. NET, REST API, Postman
-
-- <b>Collaboration:</b> Agile Environment, Git, GitHub
-
-- <b>Design:</b> Figma, Adobe Photoshop CC, Adobe Illustrator CC
-
-- <b>CMS:</b> WordPress
-
-- <b>IDE:</b> Visual Studio, Sublime Text, Android Studio
-
-## Inspirations
-
-> "Wear your failures as a badge of honor." ― Sundar Pichai, CEO Of Google
- 
-> "Everything you can imagine is real." ― Pablo Picasso
+HTML5, CSS3, JavaScript, Bootstrap, React.js, Node.js, PHP, MySQL, REST API, Agile Environment, Git, WordPress
 
 <br>
 <h2 align="center">Let's Connect :handshake:</h2>
