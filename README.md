@@ -6,11 +6,6 @@
 Passionate about building user-friendly, reliable and scalable software systems :globe_with_meridians: Experienced in Agile Environment. Constantly learning and expanding my skillsets to build high quality products.
 
 <br>
-<h2>Tech Stack</h2>
-
-HTML5, CSS3, JavaScript, Bootstrap, React.js, Node.js, PHP, MySQL, REST API, Agile Environment, Git, WordPress
-
-<br>
 <h2 align="center">Let's Connect :handshake:</h2>
 <p align="center">
 <a href="https://www.linkedin.com/in/yitmengwong/">
